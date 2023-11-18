@@ -3,7 +3,7 @@
 #include <string.h>
 #include "biblioteca.h"
 
-// gcc -Wall -Wextra -g3 main2.c biblioteca.c -o main2.exe  -> compilar no terminal
+// gcc -Wall -Wextra -g3 main.c biblioteca.c -o main.exe  -> compilar no terminal
 
 int main() {
   char op;
